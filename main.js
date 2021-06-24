@@ -1,0 +1,3 @@
+function alerShow(){
+    alert("ok");
+}
